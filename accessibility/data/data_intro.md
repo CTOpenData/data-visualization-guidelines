@@ -3,7 +3,7 @@ layout: page
 title: Accessibility
 nav_order: 10
 has_children: true
-parent: Data
+parent: Accessibility
 ---
 
 # Data
