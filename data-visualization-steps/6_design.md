@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 6. Update and maintain
-parent: Data publication steps
-nav_order: 9
+title: 6. Design your chart thoughtfully
+parent: Data visualization steps
+nav_order: 8
 ---
 
 # 6. Update and maintain your data 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 5. Review and get approval
-parent: Data publication steps
-nav_order: 8
+title: 5. . Choose a software program
+parent: Data visualization steps
+nav_order: 7
 ---
 
 # 5. Review and get approval 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 1. Identify data to publish
-parent: Data publication steps
-nav_order: 4
+title: 1. Define your goal
+parent: Data visualization steps
+nav_order: 3
 ---
 
 # 1. Identify data to publish

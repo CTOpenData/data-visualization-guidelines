@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 2. Prepare data for publication
-parent: Data publication steps
-nav_order: 5
+title: 2. Know your audience
+parent: Data visualization steps
+nav_order: 4
 ---
 
 # 2. Prepare data for publication

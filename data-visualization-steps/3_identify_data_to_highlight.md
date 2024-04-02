@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 3. Create metadata
-parent: Data publication steps
-nav_order: 6
+title: 3. Identify and prioritize the data points or trends you want to highlight. 
+parent: Data visualization steps
+nav_order: 5
 ---
 
 # 3. Create metadata 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting started
-nav_order: 2
+title: Equity
+nav_order: 29
 ---
 
 # Getting started with open data
