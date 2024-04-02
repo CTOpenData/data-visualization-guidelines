@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Connecticut Data Visualization Guidelines
+title: Data Visualization Guidelines
 description: A resource on data visualization and accessibility for Connecticut state agencies
 baseurl: "/data-visualization-guidelines" # the subpath of your site, e.g. /blog
 url: "https://ctopendata.github.io/data-visualization-guidelines/" # the base hostname & protocol for your site, e.g. http://example.com

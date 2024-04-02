@@ -1,18 +1,24 @@
 ---
 layout: page
-title: 5. . Choose a software program
+title: 5. Choose a software program
 parent: Data visualization steps
 nav_order: 7
 ---
 
-# 5. Review and get approval 
+# 5. Choose a software program
 
-After publishing your dataset as private, the next step is sharing it with anybody on your team that needs to review it before it is made public. 
+There are many data visualization tools to choose from, including some great free options. Your agency or organization may license a tool like Microsoft Power BI or Tableau, which you could consider. Some data visualization tools to consider include:
 
-Ask your colleagues to review the data as well as the metadata to make sure the data is presented clearly and accurately. 
-
-You can also ask the Open Data Coordinator or GIS Coordinator to review your dataset to ensure that it is set up in a way that works well for users of the platform. 
-
-Once you have incorporated any feedback from your reviewers, change the visibility settings of the data from private to public. Now your dataset will be visible to the public.
-
-Now that you have published your data to the CT Open Data Portal or the CT Geodata Portal, you may want to let your stakeholders know. You can also let other open data users in the state know by posting to the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Teams. 
+| Program                    | Description                        | Links |
+|-------------------------|-------------------------------|------------|
+| Excel      | Excel is a common spreadsheet and graphing program that can be used to make effective data visualizations. | [Depict Data Studio](https://depictdatastudio.com/category/data-visualization-in-excel/){:target="_blank"} is a helpful resource for data visualization in Excel.       | 
+| Datawrapper                | Datawrapper is a web-based data visualization tool that lets users create charts, maps, and tables
+through a point-and-click interface and embed the visualizations in their own websites. Free and paid versions are available. |  [Datawrapper can be accessed online here.](https://www.datawrapper.de/){:target="_blank"}      |
+| Tableau      | Tableau is a popular dashboard tool with free and paid versions. Tableau lets users create interactive dashboards with no code required. |  [Tableau Public (the free version) can be downloaded here.](https://public.tableau.com/app/discover){:target="_blank"}        | 
+| R                | R is a programming language for data management, analysis, visualization and dashboards, often used in the open-source software RStudio. R is a versatile and powerful tool for data visualization but has a steeper learning curve than no-code data visualization options. | [Download R here.](https://www.r-project.org/){:target="_blank"}  [Download R Studio here.](https://posit.co/){:target="_blank"}        |
+| Tyler Tech (fka Socrata)      | Tyler Technologies Data & Insights (formerly known as Socrata) provides the software that powers the
+Connecticut Open Data Portal. Users of the Open Data Portal can use the data visualization tools built into the platform to create charts and maps based on datasets hosted on the Portal.
+ | [Access Socrata support articles about data visualizations here.](https://support.socrata.com/hc/en-us/articles/115000813847-Creating-a-Visualization-in-the-Visualization-Canvas){:target="_blank"}       | 
+| ArcGIS Online                | ArcGIS Online is a cloud-based mapping and analysis tool that can be used to create interactive maps and data visualizations. | [Esri Map Gallery](https://mapgallery.esri.com/){:target="_blank"}       |
+| Power BI               | Power BI is a business analytics tool provided by Microsoft that can be used to develop interactive dashboards.
+ |  [Access trainings on Power BI here.](https://learn.microsoft.com/en-us/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-marketing-page){:target="_blank"}         |

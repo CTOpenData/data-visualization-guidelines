@@ -5,13 +5,13 @@ nav_order: 1
 ---
 # Introduction 
 
-These guidelines highlight best practices for creating clear and accessible data visualizations. It includes guidance on the data visualization process, tools, and accessibility best practices. These guidelines were developed for Connecticut state employees who want to visualize their data. They are maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team at the CT Office of Policy and Management.
+These guidelines highlight best practices for creating clear and accessible data visualizations. They include guidance on the data visualization process, tools, and accessibility best practices. These guidelines were developed for Connecticut state employees who want to visualize their data. They are maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team at the CT Office of Policy and Management.
 
 ## What is data visualization? 
 
-Data visualization is the representation of information and data in a visual format such as charts, graphs, maps, etc. It makes it easier for people to quickly understand complex ideas in data and can give us a quick "at-a-glance" understanding of trends or patterns.
+Data visualization is the representation of information and data in a visual format such as charts, graphs, maps, etc. Data visualization makes it easier for people to quickly understand complex ideas in data and can give us a quick "at-a-glance" understanding of trends or patterns.
 
-In state government, we often use data visualization in reports, slides, and dashboards to highlight points or trends in our data. Good data visualization should help people find insights and make discoveries. Poor data visualization can confuse, mislead, or make it difficult for people to use them effectively. 
+In state government, we often use data visualization in reports, slides, and dashboards to highlight points or trends in our data for informational and decision-making purposes. Good data visualization should help people find insights and make discoveries about data. Poor data visualization can confuse, mislead, or make it difficult for people to use them effectively. 
 
 These guidelines outline the steps we can take to design clear and informative data visualizations that are accessible to everybody. 
 
@@ -58,7 +58,7 @@ These guidelines also include guidance on accessibility and data visualization, 
 
 ## Get in touch!
 
-This handbook is maintained by the Data and Policy Analytics team in the Office of Policy and Management. We will continue to develop the Data Visualization Guidelines as a resource for publishers of open data in Connecticut state agencies. 
+This resource is maintained by the Data and Policy Analytics team in the Office of Policy and Management. We will continue to develop the Data Visualization Guidelines as a resource for Connecticut state agencies. 
 
 Let us know what other information you’d like to see included in this resource by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Microsoft Teams.
 

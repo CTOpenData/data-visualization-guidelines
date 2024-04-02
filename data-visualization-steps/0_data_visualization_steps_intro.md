@@ -6,6 +6,6 @@ has_children: true
 ---
 # Data visualization steps
 
-This section of the handbook walks through the steps for publishing open data on the [CT Open Data Portal](https://data.ct.gov/){:target="_blank"} and the [CT Geodata Portal](https://geodata.ct.gov/){:target="_blank"}. 
+This section of the guidelines walks through the steps for creating data visualizations.
 
 {:toc}
