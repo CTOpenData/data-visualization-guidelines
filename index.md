@@ -5,53 +5,61 @@ nav_order: 1
 ---
 # Introduction 
 
-This handbook is for Connecticut state employees who want to publish open data on the [CT Open Data Portal](https://data.ct.gov/){:target="_blank"} and the [CT Geodata Portal](https://geodata.ct.gov/){:target="_blank"}. It is maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team at the CT Office of Policy and Management.
+These guidelines highlight best practices for creating clear and accessible data visualizations. It includes guidance on the data visualization process, tools, and accessibility best practices. These guidelines were developed for Connecticut state employees who want to visualize their data. They are maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team at the CT Office of Policy and Management.
 
-## What is open data? 
+## What is data visualization? 
 
-Open data is data that is: 
+Data visualization is the representation of information and data in a visual format such as charts, graphs, maps, etc. It makes it easier for people to quickly understand complex ideas in data and can give us a quick "at-a-glance" understanding of trends or patterns.
 
-* Freely available for download, indexing, and searching;
-* Accessible in a machine-readable format; 
-* Not limited by restrictions of use; 
-* Published at the finest level of detail permitted by law; and 
-* Described clearly in metadata so users can understand the context of the data, any limitations of use, and how to process the data ([CGS Sec 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
+In state government, we often use data visualization in reports, slides, and dashboards to highlight points or trends in our data. Good data visualization should help people find insights and make discoveries. Poor data visualization can confuse, mislead, or make it difficult for people to use them effectively. 
 
-## Open data roles
+These guidelines outline the steps we can take to design clear and informative data visualizations that are accessible to everybody. 
 
-In Connecticut state government, agencies make their data available as open data on various platforms, including the CT Open Data Portal and the CT Geodata Portal. These platforms are administered by the Data and Policy Analytics unit in the Office of Policy and Management, in collaboration with data publishers across state agencies.
+## How to use these guidelines 
 
-Some key roles associated with publishing data on the CT Open Data Portal and the CT Geodata Portal are: 
+These guidelines outline the steps for designing data visualizations, including: 
 
-* **Data steward**. The data steward is the person at the agency with the most knowledge about the data who has the authority to make decisions about the data in their domain. They lead the preparation of the data and metadata for publication. 
-* **Data custodian**. The data custodian is the person at the agency with the technical knowledge about how the data is stored and how it can be extracted. They support the access, extraction, and automation of the data. 
-* **Open data coordinator**. The open data coordinator is part of the Data and Policy Analytics team in the Office of Policy and Management. They work with data stewards and data custodians at state agencies to coordinate the publication of data to the CT Open Data Portal. 
-* **GIS coordinator**. The GIS coordinator is part of the GIS Office in the Office of Policy and Management. They work with data stewards and data custodians at state agencies to coordinate the publication of data to the CT Geodata Portal. 
+1. [Define your goal](data-visualization-steps\1_define_your_goal)
+2. [Know your audience](data-visualization-steps\2_know_your_audience)
+3. [Identify and prioritize the data points or trends you want to highlight](data-publication-steps\3_identify_data_to_highlight)
+4. [Match your story with a chart type](data-visualization-steps\4_choose_chart_type)
+5. [Choose a software program](data-visualization-steps\5_choose_software_program)
+6. [Design your visualization](data-visualization-steps\6_design)
 
-## How to use this handbook 
+These guidelines also include guidance on accessibility and data visualization, including: 
 
-This handbook walks through the steps for publishing data to the CT Open Data Portal and the CT Geodata Portal. Data publishers can use these steps as a reference when publishing open data. The steps for publishing open data include:
+[Data](/data-visualization-guidelines/accessibility/data_intro)
+1. [Provide access to the data in an accessible table format](/data-visualization-guidelines/accessibility/data/table_format)
+2. [Use data visualizations that are familiar to viewers](/data-visualization-guidelines/accessibility/data/familiar_visualizations)
 
-1. [Identify data to publish](data-publication-steps\1_identify_data_to_publish)
-2. [Prepare data for publication](data-publication-steps\2_prepare_data_for_publication)
-3. [Create metadata](data-publication-steps\3_create_metadata)
-4. [Upload data](data-publication-steps\4_upload_data)
-6. [Update and maintain](data-publication-steps\6_update_and_maintain)
+[Color](/data-visualization-guidelines/accessibility/color_intro)
+1. [Avoid relying on color as the only way to convey information](/data-visualization-guidelines/accessibility/color/color_alone)
+2. [Ensure that there is sufficient contrast between colors used in your data visualization or dashboard](/data-visualization-guidelines/accessibility/color/color_contrast)
+3. [Choose colors that are accessible and colorblind friendly](/data-visualization-guidelines/accessibility/color/colorblind_friendly)
+4. [Use white space](/data-visualization-guidelines/accessibility/color/white_space)
 
-This handbook also includes detailed guidance on several topics relating to open data including: 
+[Text](/data-visualization-guidelines/accessibility/text_intro)
+1. [Provide a text-based equivalent for every data visualization](/data-visualization-guidelines/accessibility/text/text_equivalent)
+2. [Use alternative text (alt text) to describe all non-decorative visuals](/data-visualization-guidelines/accessibility/text/alt_text)
+3. [Use plain language](/data-visualization-guidelines/accessibility/text/plain_language)
+4. [Ensure text is readable](/data-visualization-guidelines/accessibility/text/readable_text)
+5. [Create meaningful labels and titles](/data-visualization-guidelines/accessibility/text/labels_and_titles)
 
-1. [Preparing and formatting data](/open-data-handbook/data-resources/data_preparation_and_formatting)
-2. [Aggregating data](/open-data-handbook/data-resources/data_aggregation)
-3. [Automating data updates](/open-data-handbook/data-resources/automation)
-4. [Writing clear metadata](/open-data-handbook/data-resources/metadata_standards)
-5. [Developing data stories](/open-data-handbook/data-resources/data_stories)
-6. [Measuring open data use](/open-data-handbook/data-resources/measuring_open_data_use)
-7. [Retiring old data that are no longer being maintained](/open-data-handbook/data-resources/data_retirement)
+[Interaction](/data-visualization-guidelines/accessibility/interaction_intro)
+1. [Make interactive visualizations keyboard-accessible](/data-visualization-guidelines/accessibility/interaction/keyboard)
+2. [Ensure the keyboard focus indicator is easily visible](/data-visualization-guidelines/accessibility/interaction/focus_indicator)
+3. [Check that the tab order is logical and intuitive for keyboard and assistive technology users](/data-visualization-guidelines/accessibility/interaction/tab_order)
+4. [Don’t require interactions to access key information](/data-visualization-guidelines/accessibility/interaction/key_information)
+
+[Testing](/data-visualization-guidelines/accessibility/testing_intro)
+1. [Test your visualization or dashboard with a screen reader](/data-visualization-guidelines/accessibility/testing/screen_reader)
+2. [Test for low vision](/data-visualization-guidelines/accessibility/testing/low_vision)
+3. [Test on mobile](/data-visualization-guidelines/accessibility/testing/mobile)
 
 ## Get in touch!
 
-This handbook is maintained by the Data and Policy Analytics team in the Office of Policy and Management. We will continue to develop the Open Data Handbook as a resource for publishers of open data in Connecticut state agencies. 
+This handbook is maintained by the Data and Policy Analytics team in the Office of Policy and Management. We will continue to develop the Data Visualization Guidelines as a resource for publishers of open data in Connecticut state agencies. 
 
-Let us know what other information you’d like to see included in this handbook by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Microsoft Teams.
+Let us know what other information you’d like to see included in this resource by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Microsoft Teams.
 
 Connecticut state employees can request to join the Open Data channel using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=-nyLEd2juUiwJjH_abtzi5L_xJbiJ_5BoyF_jDckfpJUM1JNU0ZMNVhZRFA0MVlYOUdCNjA1TkRTWC4u){:target="_blank"}. 
