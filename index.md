@@ -21,37 +21,37 @@ These guidelines outline the steps for designing data visualizations, including:
 
 1. [Define your goal](data-visualization-steps\1_define_your_goal)
 2. [Know your audience](data-visualization-steps\2_know_your_audience)
-3. [Identify and prioritize the data points or trends you want to highlight](data-publication-steps\3_identify_data_to_highlight)
+3. [Identify and prioritize the data points or trends you want to highlight](data-visualization-steps\3_identify_data_to_highlight)
 4. [Match your story with a chart type](data-visualization-steps\4_choose_chart_type)
 5. [Choose a software program](data-visualization-steps\5_choose_software_program)
 6. [Design your visualization](data-visualization-steps\6_design)
 
 These guidelines also include guidance on accessibility and data visualization, including: 
 
-[Data](/data-visualization-guidelines/accessibility/data_intro)
+[Data](/data-visualization-guidelines/accessibility/data/data_intro)
 1. [Provide access to the data in an accessible table format](/data-visualization-guidelines/accessibility/data/table_format)
 2. [Use data visualizations that are familiar to viewers](/data-visualization-guidelines/accessibility/data/familiar_visualizations)
 
-[Color](/data-visualization-guidelines/accessibility/color_intro)
+[Color](/data-visualization-guidelines/accessibility/color/color_intro)
 1. [Avoid relying on color as the only way to convey information](/data-visualization-guidelines/accessibility/color/color_alone)
 2. [Ensure that there is sufficient contrast between colors used in your data visualization or dashboard](/data-visualization-guidelines/accessibility/color/color_contrast)
 3. [Choose colors that are accessible and colorblind friendly](/data-visualization-guidelines/accessibility/color/colorblind_friendly)
 4. [Use white space](/data-visualization-guidelines/accessibility/color/white_space)
 
-[Text](/data-visualization-guidelines/accessibility/text_intro)
+[Text](/data-visualization-guidelines/accessibility/text/text_intro)
 1. [Provide a text-based equivalent for every data visualization](/data-visualization-guidelines/accessibility/text/text_equivalent)
 2. [Use alternative text (alt text) to describe all non-decorative visuals](/data-visualization-guidelines/accessibility/text/alt_text)
 3. [Use plain language](/data-visualization-guidelines/accessibility/text/plain_language)
 4. [Ensure text is readable](/data-visualization-guidelines/accessibility/text/readable_text)
 5. [Create meaningful labels and titles](/data-visualization-guidelines/accessibility/text/labels_and_titles)
 
-[Interaction](/data-visualization-guidelines/accessibility/interaction_intro)
+[Interaction](/data-visualization-guidelines/accessibility/interaction/interaction_intro)
 1. [Make interactive visualizations keyboard-accessible](/data-visualization-guidelines/accessibility/interaction/keyboard)
 2. [Ensure the keyboard focus indicator is easily visible](/data-visualization-guidelines/accessibility/interaction/focus_indicator)
 3. [Check that the tab order is logical and intuitive for keyboard and assistive technology users](/data-visualization-guidelines/accessibility/interaction/tab_order)
 4. [Don’t require interactions to access key information](/data-visualization-guidelines/accessibility/interaction/key_information)
 
-[Testing](/data-visualization-guidelines/accessibility/testing_intro)
+[Testing](/data-visualization-guidelines/accessibility/testing/testing_intro)
 1. [Test your visualization or dashboard with a screen reader](/data-visualization-guidelines/accessibility/testing/screen_reader)
 2. [Test for low vision](/data-visualization-guidelines/accessibility/testing/low_vision)
 3. [Test on mobile](/data-visualization-guidelines/accessibility/testing/mobile)
