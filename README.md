@@ -1,9 +1,9 @@
-# Connecticut Open Data Handbook
+# Connecticut Data Visualization Guidelines
 
-A resource for publishers of open data in Connecticut state government
+A resource on data visualization and accessibility for Connecticut state agencies
 
 ## Change log
 
 | Version     | Date        | Description |
 | ----------- | ----------- | ----------- |
-| V1.0.0      | January 2023    | Initial Release |
+| V1.0.0      | April 2024    | Initial Release |

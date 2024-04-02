@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Connecticut Open Data Handbook
-description: A resource for publishers of open data in Connecticut state government
-baseurl: "/open-data-handbook" # the subpath of your site, e.g. /blog
-url: "https://ctopendata.github.io/open-data-handbook/" # the base hostname & protocol for your site, e.g. http://example.com
+title: Connecticut Data Visualization Guidelines
+description: A resource on data visualization and accessibility for Connecticut state agencies
+baseurl: "/data-visualization-guidelines" # the subpath of your site, e.g. /blog
+url: "https://ctopendata.github.io/data-visualization-guidelines/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: just-the-docs
@@ -32,7 +32,7 @@ plugins:
 aux_links: # remove if you don't want this link to appear on your pages
   CT Open Data Portal: https://data.ct.gov/
   CT Geodata Portal: https://geodata.ct.gov/
-  Github Repository: https://github.com/ctopendata/open-data-handbook
+  Github Repository: https://github.com/ctopendata/data-visualization-guidelines/
 
 favicon_ico: "/assets/favicon.ico"
 
