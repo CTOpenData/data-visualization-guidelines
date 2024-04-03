@@ -26,8 +26,6 @@ url: "https://ctopendata.github.io/data-visualization-guidelines/" # the base ho
 # Build settings
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-default-layout
 
 aux_links: # remove if you don't want this link to appear on your pages
   CT Open Data Portal: https://data.ct.gov/
