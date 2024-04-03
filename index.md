@@ -17,7 +17,7 @@ These guidelines outline the steps we can take to design clear and informative d
 
 ## What is accessibility? 
 
-Accessibility (also referred to as a11y) is the practice of making your content usable by as many people as possible. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility){:target="_blank"} adds:"You might also think of accessibility as treating everyone the same, and giving them equal opportunities, no matter what their ability or circumstances."
+Accessibility (also referred to as a11y) is the practice of making your content usable by as many people as possible. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility){:target="_blank"} adds: "You might also think of accessibility as treating everyone the same, and giving them equal opportunities, no matter what their ability or circumstances."
 
 Federally-funded agencies are required to make their content accessible to people with disabilities. In the U.S. 26% of adults have some type of disability, with about 19% of adults in Connecticut having a disability.[^1]
 
