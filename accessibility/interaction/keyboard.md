@@ -14,4 +14,6 @@ Test your data visualization or dashboard with a keyboard to make sure it behave
 
 | Interaction              | Keystrokes                                                                           | 
 | ------------------------ | ------------------------------------------------------------------------------------ | 
-| Navigate to interactive elements | * Tab - navigate forward * Shift + Tab - navigate backward |
+| Navigate to interactive elements | 
+* Tab - navigate forward 
+* Shift + Tab - navigate backward |
