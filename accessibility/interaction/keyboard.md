@@ -14,4 +14,4 @@ Test your data visualization or dashboard with a keyboard to make sure it behave
 
 | Interaction              | Keystrokes                                                                           | 
 | ------------------------ | ------------------------------------------------------------------------------------ | 
-| Navigate to interactive elements | {::nomarkdown}<ul><li>`Tab` - navigate forward</li><li>`Shift` + `Tab` - navigate backward</li></ul>{:/}|
+| Navigate to interactive elements | {::nomarkdown}<ul><li><code>Tab</code> - navigate forward</li><li><code>Shift</code> + <code>Tab</code> - navigate backward</li></ul>{:/}|
