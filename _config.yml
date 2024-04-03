@@ -38,9 +38,11 @@ favicon_ico: "/assets/favicon.ico"
 
 search_enabled: true
 
+color_scheme: ct_colors 
+
 callouts:
   note:
-    color: purple
+    color: $blue-300
 
 # Exclude from processing.
 # The following items will not be processed, by default.
