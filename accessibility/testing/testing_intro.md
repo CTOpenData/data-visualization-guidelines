@@ -8,4 +8,6 @@ parent: Accessibility
 
 # Testing
 
+When developing a data visualization or dashboard, we should incorporate accessibility testing into our process. This section provides guidance on how to test for accessibility. 
+
 {:toc}

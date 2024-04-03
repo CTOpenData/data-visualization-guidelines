@@ -17,7 +17,7 @@ The resources below can help you get started visualizing open data.
 The accessibility guidelines in this document were adapted from several resources on data visualization and accessibility, including: 
 
 * [Accessible data viz is better data viz](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz){:target="_blank"}, Amy Cesal
-* [ Writing Alt Text for Good Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81){:target="_blank"}, Amy Cesal
+* [Writing Alt Text for Good Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81){:target="_blank"}, Amy Cesal
 * [Data visualization standards for SF.gov](https://datasf.gitbook.io/public-data-visualization-guide/){:target="_blank"}, DataSF
 * [10 Guidelines for DataViz Accessibility](https://www.highcharts.com/blog/tutorials/10-guidelines-for-dataviz-accessibility/){:target="_blank"}, HighCharts
 * [Top Tips for Data Accessibility](https://material.io/blog/data-visualization-accessibility){:target="_blank"}, Material Design
