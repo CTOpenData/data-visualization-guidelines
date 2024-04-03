@@ -6,8 +6,49 @@ a {
     color: #3371E7;
 }
 
-input:focus + .search-icon svg {
+.main-content .anchor-heading svg {
     color: #3371E7;
+}
+
+.icon {
+    color: #3371E7;  
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+    color: #3371E7;  
+}
+
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link {
+    color: #3371E7;  
+}
+
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander {
+    color: #3371E7;  
+}
+
+.btn {
+    color: #3371E7;  
+}
+
+.btn-outline {
+    color: #3371E7;  
+}
+
+.btn-outline:hover, .btn-outline:active, .btn-outline.zeroclipboard-is-hover, .btn-outline.zeroclipboard-is-active {
+    color: #3371E7; 
+}
+
+.search-input:focus + .search-label .search-icon {
+    color: #3371E7; 
+}
+
+.search-result-doc .search-result-icon {
+    color: #3371E7; 
+}
+
+a.skip-to-main:focus,
+a.skip-to-main:active {
+    color: #3371E7; 
 }
 
 .site-header {
