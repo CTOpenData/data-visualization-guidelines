@@ -25,5 +25,5 @@ When creating a table, make sure to format the table to make the data easy for p
 * Structure the table intuitively 
 * Avoid blank cells, which can be unclear and confusing 
 
-![Line graph and table showing total COVID-19 patients in acute and intensive care in San Francisco](../data/covid-chart.png)
+![Line graph and table showing total COVID-19 patients in acute and intensive care in San Francisco](../data/covid-chart.png)\
 *[Example of a dashboard from Data SF](https://datasf.gitbook.io/public-data-visualization-guide/gallery-of-dashboard-transformations){:target="_blank"} built with Power BI that includes a chart and an accessible data table.*
