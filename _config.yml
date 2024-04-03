@@ -40,7 +40,7 @@ search_enabled: true
 
 callouts:
   note:
-    color: $blue-300
+    color: purple
 
 # Exclude from processing.
 # The following items will not be processed, by default.
