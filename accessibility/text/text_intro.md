@@ -6,6 +6,8 @@ has_children: true
 parent: Accessibility
 ---
 
-# Data publication steps
+# Text
+
+This section covers the steps we can take to use text to make sure our visualizations are accessible and clear.
 
 {:toc}

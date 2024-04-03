@@ -1,7 +1,16 @@
 ---
 layout: page
-title: Create meaningful labels and titles. 
+title: Use meaningful labels and titles
 parent: Text
 grand_parent: Accessibility
 nav_order: 19
 ---
+
+# Create meaningful labels and titles. 
+
+Use clear labels and titles to decrease the cognitive load of understanding your data visualization. Two steps you can take to improving the clarity of your labels and titles (from Amy Cesal’s [Accessible data viz is better data viz](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz){:target="_blank"}) are:
+
+* Use a “takeaway title” for your chart that helps the user understand the graph’s main takeaway point. 
+* Use direct labels rather than legends where possible. By directly labeling your data you can reduce the cognitive burden on users and make it more accessible to colorblind or visually impaired users who may have a hard time matching colors between the plot and legend. 
+
+**image** 

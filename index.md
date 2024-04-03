@@ -15,6 +15,14 @@ In state government, we often use data visualization in reports, slides, and das
 
 These guidelines outline the steps we can take to design clear and informative data visualizations that are accessible to everybody. 
 
+## What is accessibility? 
+
+Accessibility (also referred to as a11y) is the practice of making your content usable by as many people as possible. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility){:target="_blank"} adds:"You might also think of accessibility as treating everyone the same, and giving them equal opportunities, no matter what their ability or circumstances."
+
+Federally-funded agencies are required to make their content accessible to people with disabilities. In the U.S. 26% of adults have some type of disability, with about 19% of adults in Connecticut having a disability.[^1]
+
+We should all prioritize accessibility from the start of our data visualization process and should consider hearing, motor, cognitive, and visual accessibility. Use these guidelines as a starting place for designing accessible data visualizations. 
+
 ## How to use these guidelines 
 
 These guidelines include a high-level overview of the steps for designing data visualizations, as well as more detailed guidance on accessibility and equity in data visualization. The sections are outlined below as well as in the navigation panel to the left.
@@ -28,7 +36,7 @@ These guidelines include a high-level overview of the steps for designing data v
 6. [Design your visualization](data-visualization-steps\6_design)
 
 ### Accessibility 
-####[Data](/data-visualization-guidelines/accessibility/data/data_intro)
+#### [Data](/data-visualization-guidelines/accessibility/data/data_intro)
 1. [Provide access to the data in an accessible table format](/data-visualization-guidelines/accessibility/data/table_format)
 2. [Use data visualizations that are familiar to viewers](/data-visualization-guidelines/accessibility/data/familiar_visualizations)
 
@@ -66,3 +74,5 @@ This resource is maintained by the Data and Policy Analytics team in the Office 
 Let us know what other information you’d like to see included in this resource by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Microsoft Teams.
 
 Connecticut state employees can request to join the Open Data channel using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=-nyLEd2juUiwJjH_abtzi5L_xJbiJ_5BoyF_jDckfpJUM1JNU0ZMNVhZRFA0MVlYOUdCNjA1TkRTWC4u){:target="_blank"}. 
+
+[^1] CT.gov Content Style Guide, Accessibility Best Practices, [https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices](https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices?language=en_US){:target="_blank"}
