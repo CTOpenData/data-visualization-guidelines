@@ -18,7 +18,8 @@ Alt text can be added within the alt attribute of the <img> element or in visibl
 
 In the CT Open Data Portal, you can add alt text to any embedded content in a data story, as pictured below. 
 
-**image**
+![HTML embed code with title attribute completed](../text/alt_text.png)\
+*Screenshot of html embed content in a data story on the Open Data Portal*
 
 WebAIM recommends that the alt attribute should: 
 
@@ -29,7 +30,8 @@ WebAIM recommends that the alt attribute should:
 
 The table below shows four options for alt text for the line graph on the left. For more guidance on writing alt text, see "Writing Alt Text to Communicate the Meaning in Data Visualizations” in the Urban Institute’s [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization){:target="_blank"}.
 
-**image**  
+![Graph with a blue line showing monthly unemployment rates in the US and gray vertical bars showing recessions.](../text/alt_text_2.png)\
+*Example alt text from "Writing Alt Text to Communicate the Meaning in Data Visualizations” in the Urban Institute’s [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization){:target="_blank"}*
 
 | ------------------------------------------------------------------------------------------------------------------ | 
 |This graph contains a blue line showing monthly unemployment rates in the US and gray vertical bars showing recessions. The source of the data is the Bureau of Labor Statistics and the National Bureau of Economic Research.| 

@@ -13,4 +13,7 @@ Use clear labels and titles to decrease the cognitive load of understanding your
 * Use a “takeaway title” for your chart that helps the user understand the graph’s main takeaway point. 
 * Use direct labels rather than legends where possible. By directly labeling your data you can reduce the cognitive burden on users and make it more accessible to colorblind or visually impaired users who may have a hard time matching colors between the plot and legend. 
 
-**image** 
+![Bar chart showing student leadership and volunteering data](../text/meaningful_titles_and_labels.png)\
+*Example of bar chart with a meaningful title and direct labels from Stephanie Evergreen’s [How to Rock the Text in Your Data Visualization](https://stephanieevergreen.com/how-to-rock-the-text-in-your-data-visualization/){:target="_blank"}.*
+
+
