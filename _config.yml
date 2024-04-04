@@ -28,8 +28,6 @@ theme: just-the-docs
 #remote_theme: pmarsceill/just-the-docs
 
 aux_links: # remove if you don't want this link to appear on your pages
-  CT Open Data Portal: https://data.ct.gov/
-  CT Geodata Portal: https://geodata.ct.gov/
   Github Repository: https://github.com/ctopendata/data-visualization-guidelines/
 
 favicon_ico: "/assets/favicon.ico"
