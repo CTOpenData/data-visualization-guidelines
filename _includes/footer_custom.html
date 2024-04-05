@@ -1,14 +1,10 @@
-{% if page.layout != 'post' %}
-{% assign sorted_pages2 = site.pages | sort: 'order' %}
-{% else %}
-{% assign sorted_pages2 = site.posts reversed %}
-{% endif %}
+{% assign sorted_pages2 = site.pages %}
 
 {% assign sorted_pages = "" | split: ""  %}
 {% for item in sorted_pages2 %}
-    {% if item.url != "/404.html" %}    
+    {% if item.type == "page" %}
         {% assign sorted_pages = sorted_pages | push: item %}
-    {% endif %} 
+    {% endif %}
 {% endfor %}
 
 {% for item in sorted_pages %}
