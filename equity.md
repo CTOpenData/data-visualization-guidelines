@@ -6,7 +6,7 @@ nav_order: 29
 
 # Apply equity awareness in your design
 
-When creating data visualizations, think intentionally about the people and groups represented in your data. Remember that the data represents real people and communities. Consider the impact of your data visualiaztion design. What are the equity implications of your design choices? Could this visualization have a negative impact on the people represented in the data? 
+When creating data visualizations, think intentionally about the people and groups represented in your data. Remember that the data represents real people and communities. Consider the impact of your data visualization design. What are the equity implications of your design choices? Could this visualization have a negative impact on the people represented in the data? 
 
 Center equity in your data visualizations, by considering the perspectives of individuals and communities represented in the data and the social, economic, and racial context. 
 
