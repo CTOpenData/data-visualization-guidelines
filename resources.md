@@ -9,7 +9,6 @@ This page provides access to resources on data visualization and accessibility.
 # Data Visualization
 The resources below can help you get started visualizing open data.
 
-* [Data visualization guidance](https://portal.ct.gov/-/media/CT-Data/data-visualization-guidelines.pdf){:target="_blank"}
 * [Datawrapper](https://app.datawrapper.de/){:target="_blank"}
 * [Tableau Public](https://public.tableau.com/app/discover){:target="_blank"}
 
