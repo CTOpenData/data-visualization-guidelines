@@ -2,6 +2,7 @@
 layout: page
 title: Introduction
 permalink: /accessibility/intro
+has_toc: true
 nav_order: 9
 ---
 # Accessibility

@@ -2,6 +2,7 @@
 layout: page
 title: Data visualization steps
 permalink: /data_visualization/data_visualization_steps
+has_toc: true
 nav_order: 2
 ---
 # Data visualization steps
