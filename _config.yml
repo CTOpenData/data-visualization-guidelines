@@ -63,12 +63,6 @@ collections:
   accessibility:
     output: true
     sort_by: nav_order
-  equity:
-    output: true
-    sort_by: nav_order
-  resources:
-    output: true
-    sort_by: nav_order
 
 collections_dir: docs
 
@@ -110,19 +104,7 @@ just_the_docs:
       name: Accessibility
       nav_exclude: false
       search_exclude: false
-    equity:
-      name: Equity
-      nav_exclude: false
-      search_exclude: false
-    resources:
-      # Give the collection a name
-      name: Resources
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
+
 
 
 # Exclude from processing.
