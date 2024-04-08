@@ -63,6 +63,12 @@ collections:
   accessibility:
     output: true
     sort_by: nav_order
+  equity:
+    output: true
+    sort_by: nav_order
+  resources:
+    output: true
+    sort_by: nav_order
 
 collections_dir: docs
 
