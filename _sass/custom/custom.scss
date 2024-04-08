@@ -260,3 +260,19 @@ a.skip-to-main:active {
 .site-footer {
     display: none;
   }
+
+// Scrollbar
+
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #555;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }

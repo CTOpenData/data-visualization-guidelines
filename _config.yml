@@ -106,7 +106,16 @@ just_the_docs:
       nav_exclude: false
       search_exclude: false
       nav_fold: true
-
+    equity:
+      name: Equity
+      nav_exclude: false
+      search_exclude: false
+      nav_fold: true
+    resources:
+      name: Resources
+      nav_exclude: false
+      search_exclude: false
+      nav_fold: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
