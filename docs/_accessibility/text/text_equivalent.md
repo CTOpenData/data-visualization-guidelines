@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Provide a text-based equivalent for every viz
+permalink: /accessibility/text/text_equivalent
 parent: Text
 grand_parent: Accessibility
 nav_order: 15

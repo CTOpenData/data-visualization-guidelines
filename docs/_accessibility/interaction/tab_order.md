@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Check that the tab order is logical
+permalink: /accessibility/interaction/tab_order
 parent: Interaction
 grand_parent: Accessibility
 nav_order: 23

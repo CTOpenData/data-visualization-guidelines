@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Don't use color as the only way to convey information
+permalink: /accessibility/color/color_alone
 parent: Color
 grand_parent: Accessibility
 nav_order: 14

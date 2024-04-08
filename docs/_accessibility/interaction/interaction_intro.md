@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Interaction
+permalink: /accessibility/interaction/intro
 nav_order: 20
 has_children: true
 parent: Accessibility

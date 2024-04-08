@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Provide an accessible table format
+permalink: /accessibility/data/table_format
 parent: Data
 grand_parent: Accessibility
 nav_order: 11

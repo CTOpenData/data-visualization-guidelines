@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ensure the keyboard focus indicator is visible
+permalink: /accessibility/interaction/focus_indicator
 parent: Interaction
 grand_parent: Accessibility
 nav_order: 22

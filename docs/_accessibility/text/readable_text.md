@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ensure text is readable
+permalink: /accessibility/text/readable_text
 parent: Text
 grand_parent: Accessibility
 nav_order: 18

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Introduction
+permalink: /
 nav_order: 1
 ---
 # Introduction 

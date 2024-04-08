@@ -23,6 +23,12 @@ description: A resource on data visualization and accessibility for Connecticut 
 baseurl: "/data-visualization-guidelines" # the subpath of your site, e.g. /blog
 url: "https://ctopendata.github.io/data-visualization-guidelines/" # the base hostname & protocol for your site, e.g. http://example.com
 
+# URLs
+baseurl: ""
+url: ""
+permalink: pretty
+
+# Languages
 languages: ["en"]
 default_lang: "en"
 
@@ -87,6 +93,37 @@ defaults:
       type: "resources"
     values:
       layout: "default"
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    accessibility:
+      name: Accessibility
+      nav_exclude: false
+      search_exclude: false
+    data_visualization:
+      name: Data Visualization
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    equity:
+      name: Equity
+      nav_exclude: false
+      search_exclude: false
+    resources:
+      # Give the collection a name
+      name: Resources
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

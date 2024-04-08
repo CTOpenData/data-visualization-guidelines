@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Choose colorblind friendly color palettes
+permalink: /accessibility/color/colorblind_friendly
 parent: Color
 grand_parent: Accessibility
 nav_order: 16

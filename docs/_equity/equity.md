@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Equity
+permalink: /equity
 nav_order: 29
 ---
 

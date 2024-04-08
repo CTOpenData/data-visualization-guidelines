@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Text
+permalink: /accessibility/text/intro
 nav_order: 14
 has_children: true
 parent: Accessibility
