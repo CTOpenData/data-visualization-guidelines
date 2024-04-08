@@ -51,7 +51,16 @@ footer_hosted_with_love:
 
 # Collections
 collections:
-  ece:
+  accessibility:
+    output: true
+    sort_by: nav_order
+  data_visualization:
+    output: true
+    sort_by: nav_order
+  equity:
+    output: true
+    sort_by: nav_order
+  resources:
     output: true
     sort_by: nav_order
 
@@ -60,24 +69,22 @@ collections_dir: docs
 defaults:
   - scope:
       path: "**/*.md"
-      type: "ece"
-    values:
-      layout: "default"
-
-  - scope:
-      path: "**/*.md"
-      type: "optimist"
+      type: "accessibility"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "edge"
+      type: "data_visualization"
     values:
       layout: "default"
-
   - scope:
       path: "**/*.md"
-      type: "gks"
+      type: "equity"
+    values:
+      layout: "default"
+  - scope:
+      path: "**/*.md"
+      type: "resources"
     values:
       layout: "default"
 
