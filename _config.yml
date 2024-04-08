@@ -107,6 +107,7 @@ just_the_docs:
       # Supports true or false (default)
       search_exclude: false
       nav_fold: true
+      has_toc: true
     accessibility:
       name: Accessibility
       nav_exclude: false

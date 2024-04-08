@@ -13,7 +13,3 @@ In state government, we often use data visualization in reports, slides, and das
 These guidelines outline the steps we can take to design clear and informative data visualizations that are accessible to everybody. 
 
 This section of the guidelines walks through the steps for creating data visualizations.
-
-#### Table of Contents
-- TOC
-{:toc}
