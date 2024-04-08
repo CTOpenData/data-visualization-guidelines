@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Introduction
+title: Welcome
 permalink: /
 nav_order: 1
 ---
-# Introduction 
+# Welcome! 
 
 These guidelines highlight best practices for creating clear and accessible data visualizations. They include guidance on the data visualization process, tools, and accessibility best practices. These guidelines were developed for Connecticut state employees who want to visualize their data. They are maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team at the CT Office of Policy and Management.
 
