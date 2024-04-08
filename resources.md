@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data resources
+title: Resources
 permalink: /resources
 nav_order: 31
 ---

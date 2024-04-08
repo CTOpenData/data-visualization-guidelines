@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Equity and data viz
+title: Equity
 permalink: /equity
 nav_order: 30
 ---
