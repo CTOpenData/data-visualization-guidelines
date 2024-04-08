@@ -23,6 +23,9 @@ description: A resource on data visualization and accessibility for Connecticut 
 baseurl: "/data-visualization-guidelines" # the subpath of your site, e.g. /blog
 url: "https://ctopendata.github.io/data-visualization-guidelines/" # the base hostname & protocol for your site, e.g. http://example.com
 
+languages: ["en"]
+default_lang: "en"
+
 # Build settings
 theme: just-the-docs
 #remote_theme: pmarsceill/just-the-docs
@@ -40,6 +43,43 @@ footer_navigation:
     en: Previous
   next:
     en: Next
+
+footer_hosted_with_love:
+  en:
+    label: "Hosted with love on GitHub"
+    url: https://github.com/CTOpenData/data-visualization-guidelines
+
+# Collections
+collections:
+  ece:
+    output: true
+    sort_by: nav_order
+
+collections_dir: docs
+
+defaults:
+  - scope:
+      path: "**/*.md"
+      type: "ece"
+    values:
+      layout: "default"
+
+  - scope:
+      path: "**/*.md"
+      type: "optimist"
+    values:
+      layout: "default"
+  - scope:
+      path: "**/*.md"
+      type: "edge"
+    values:
+      layout: "default"
+
+  - scope:
+      path: "**/*.md"
+      type: "gks"
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
