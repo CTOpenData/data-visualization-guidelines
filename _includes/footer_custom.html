@@ -1,35 +1,37 @@
-{% assign current_page_url = page.url %}
-{% assign sorted_pages = site.pages | where: "type", "page" | sort: "url" %}
+<br/><br/><br/>
+<div class="footer-navigation-links">
+  {% if page.previous %}
 
-{% assign current_page_index = -1 %}
-{% for page in sorted_pages %}
-    {% if page.url == current_page_url %}
-        {% assign current_page_index = forloop.index0 %}
-    {% endif %}
-{% endfor %}
+  <a class="footer-navigation-link footer-navigation-link--previous" href="{{ site.baseurl }}{{ page.previous.permalink }}">
+    <svg class="footer-navigation-link__icon" viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg>
+    <span class="footer-navigation-link__sublabel">{{ site.footer_navigation.previous[site.active_lang] }}</span>
+    <span class="footer-navigation-link__label">{{ page.previous.title }}</span>
+  </a>
 
-<div class="flex f-row project-footer">
-    <div>
-        {% if current_page_index > 0 %}
-            <a href="{{ sorted_pages[current_page_index - 1].url }}">
-                👈 <span>Previous</span>
-            </a>
-        {% else %}
-            <span>No previous page</span>
-        {% endif %}
-    </div>
-    <div>
-        <a href="/data-visualization-guidelines/">
-            🏠 <span>Home</span>
-        </a>
-    </div>
-    <div>
-        {% if current_page_index < sorted_pages.size | minus: 1 %}
-            <a href="{{ sorted_pages[current_page_index | plus: 1].url }}">
-                <span>Next</span> 👉
-            </a>
-        {% else %}
-            <span>No next page</span>
-        {% endif %}
-    </div>
+  {% endif %} {% if page.next %}
+
+  <a class="footer-navigation-link footer-navigation-link--next" href="{{ site.baseurl }}{{ page.next.permalink }}">
+    <svg class="footer-navigation-link__icon" viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg>
+    <span class="footer-navigation-link__sublabel">{{ site.footer_navigation.next[site.active_lang] }}</span>
+    <span class="footer-navigation-link__label">{{ page.next.title }}</span>
+  </a>
+
+  {% endif %}
+</div>
+<div class="footer-links">
+  <div class=footer-hosted-with-love>
+  <a href="{{ site.footer_hosted_with_love[site.active_lang].url }}" target="_blank" rel="noopener noreferrer"
+    >{{ site.footer_hosted_with_love[site.active_lang].label }}</a>
+  </div>
+  <div class="footer-external-links">
+    <ul>
+      {% for footer_external_link in site.footer_external_links[site.active_lang] %}
+      <li class="footer-external-link">
+        <a href="{{ footer_external_link.url }}" target="_blank" rel="noopener noreferrer"
+          >{{ footer_external_link.label }}</a
+        >
+      </li>
+      {% endfor %}
+    </ul>
+</div>
 </div>
