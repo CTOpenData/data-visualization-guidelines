@@ -1,26 +1,17 @@
-{% assign sorted_pages2 = site.pages %}
+{% assign current_page_url = page.url %}
+{% assign sorted_pages = site.pages | where: "type", "page" | sort: "url" %}
 
-{% assign sorted_pages = "" | split: ""  %}
-{% for item in sorted_pages2 %}
-    {% if item.type == "page" %}
-        {% assign sorted_pages = sorted_pages | push: item %}
-    {% endif %}
-{% endfor %}
-
-{% for item in sorted_pages %}
-    {% if item.url == page.url %}
-        {% assign this_i = forloop.index %}
-        {% assign num_of_pages = sorted_pages | size %}
-        {% assign last_i = num_of_pages %}
-        {% assign next_i = this_i | plus: 1 %}
-        {% assign prev_i = this_i | minus: 1 %}
+{% assign current_page_index = -1 %}
+{% for page in sorted_pages %}
+    {% if page.url == current_page_url %}
+        {% assign current_page_index = forloop.index0 %}
     {% endif %}
 {% endfor %}
 
 <div class="flex f-row project-footer">
     <div>
-        {% if prev_i >= 0 %}
-            <a href="{{ sorted_pages[prev_i].url }}">
+        {% if current_page_index > 0 %}
+            <a href="{{ sorted_pages[current_page_index - 1].url }}">
                 👈 <span>Previous</span>
             </a>
         {% else %}
@@ -33,22 +24,12 @@
         </a>
     </div>
     <div>
-        {% if next_i < num_of_pages %}
-            <a href="{{ sorted_pages[next_i].url }}">
+        {% if current_page_index < sorted_pages.size | minus: 1 %}
+            <a href="{{ sorted_pages[current_page_index | plus: 1].url }}">
                 <span>Next</span> 👉
             </a>
         {% else %}
             <span>No next page</span>
         {% endif %}
     </div>
-</div>
-
-<!-- Debugging Output -->
-<div style="margin-top: 20px; background-color: #f0f0f0; padding: 10px;">
-    <p>Current Page URL: {{ page.url }}</p>
-    <p>This Index: {{ this_i }}</p>
-    <p>Total Pages: {{ num_of_pages }}</p>
-    <p>Last Index: {{ last_i }}</p>
-    <p>Previous Index: {{ prev_i }}</p>
-    <p>Next Index: {{ next_i }}</p>
 </div>
