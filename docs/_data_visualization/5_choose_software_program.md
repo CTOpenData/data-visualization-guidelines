@@ -2,7 +2,8 @@
 layout: page
 title: 5. Choose a software program
 permalink: /data_visualization/choose_software_program
-nav_order: 7
+parent: Data visualization steps
+nav_order: 8
 ---
 
 # 5. Choose a software program

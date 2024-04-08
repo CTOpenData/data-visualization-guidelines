@@ -3,7 +3,7 @@ layout: page
 title: Ensure the keyboard focus indicator is visible
 permalink: /accessibility/interaction/focus_indicator
 parent: Interaction
-nav_order: 22
+nav_order: 23
 ---
 
 # Ensure the keyboard focus indicator is easily visible.

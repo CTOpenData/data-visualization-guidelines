@@ -3,7 +3,7 @@ layout: page
 title: Use plain language
 permalink: /accessibility/text/plain_language
 parent: Text
-nav_order: 17
+nav_order: 18
 ---
 
 #  Use plain language.

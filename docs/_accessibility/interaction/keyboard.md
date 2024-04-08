@@ -3,7 +3,7 @@ layout: page
 title: Make your visualizations keyboard-accessible
 permalink: /accessibility/interaction/keyboard
 parent: Interaction
-nav_order: 21
+nav_order: 22
 ---
 
 # Make interactive visualizations keyboard-accessible.

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Introduction
-permalink: /data_visualization/intro
-nav_order: 2
+title: Data visualization steps
+permalink: /data_visualization/data_visualization_steps
+nav_order: 3
 ---
 # Data visualization steps
 

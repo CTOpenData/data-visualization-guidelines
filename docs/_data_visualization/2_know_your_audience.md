@@ -2,7 +2,8 @@
 layout: page
 title: 2. Know your audience
 permalink: /data_visualization/know_your_audience
-nav_order: 4
+parent: Data visualization steps
+nav_order: 5
 ---
 
 # 2. Know your audience.

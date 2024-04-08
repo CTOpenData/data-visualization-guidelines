@@ -2,7 +2,8 @@
 layout: page
 title: 6. Design your chart
 permalink: /data_visualization/design
-nav_order: 8
+parent: Data visualization steps
+nav_order: 9
 ---
 
 # 6. Design your visualization

@@ -3,7 +3,7 @@ layout: page
 title: Use white space
 permalink: /accessibility/color/white_space
 parent: Color
-nav_order: 17
+nav_order: 18
 ---
 
 # Use white space.

@@ -3,7 +3,7 @@ layout: page
 title: Use meaningful labels and titles
 permalink: /accessibility/text/labels_and_titles
 parent: Text
-nav_order: 19
+nav_order: 20
 ---
 
 # Create meaningful labels and titles. 

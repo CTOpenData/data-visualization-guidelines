@@ -2,7 +2,7 @@
 layout: page
 title: Color
 permalink: /accessibility/color/intro
-nav_order: 13
+nav_order: 14
 has_children: true
 
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Data resources
 permalink: /resources
-nav_order: 30
+nav_order: 31
 ---
 
 This page provides access to resources on data visualization and accessibility. 

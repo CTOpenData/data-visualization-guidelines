@@ -2,7 +2,7 @@
 layout: page
 title: Text
 permalink: /accessibility/text/intro
-nav_order: 14
+nav_order: 15
 has_children: true
 ---
 

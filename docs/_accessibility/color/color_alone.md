@@ -3,7 +3,7 @@ layout: page
 title: Don't use color as the only way to convey information
 permalink: /accessibility/color/color_alone
 parent: Color
-nav_order: 14
+nav_order: 15
 ---
 
 # Avoid relying on color as the only way to convey information.
