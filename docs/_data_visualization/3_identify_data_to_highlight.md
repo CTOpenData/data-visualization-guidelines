@@ -2,8 +2,7 @@
 layout: page
 title: 3. Identify the data you want to highlight
 permalink: /data_visualization/identify_data_to_highlight
-parent: Data visualization steps
-nav_order: 6
+nav_order: 5
 ---
 
 # 3. Identify and prioritize the data points or trends you want to highlight.

@@ -3,7 +3,7 @@ layout: page
 title: Provide an accessible table format
 permalink: /accessibility/data/table_format
 parent: Data
-nav_order: 12
+nav_order: 11
 ---
 
 # Provide access to the data in an accessible table format. 

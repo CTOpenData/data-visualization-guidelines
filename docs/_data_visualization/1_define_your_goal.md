@@ -2,8 +2,7 @@
 layout: page
 title: 1. Define your goal
 permalink: /data_visualization/define_your_goal
-parent: Data visualization steps
-nav_order: 4
+nav_order: 3
 ---
 
 # 1. Define your goal.

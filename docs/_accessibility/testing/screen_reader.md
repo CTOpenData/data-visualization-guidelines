@@ -3,7 +3,7 @@ layout: page
 title: Test your viz with a screen reader
 permalink: /accessibility/testing/screen_reader
 parent: Testing
-nav_order: 27
+nav_order: 26
 ---
 
 # Test your visualization or dashboard with a screen reader.

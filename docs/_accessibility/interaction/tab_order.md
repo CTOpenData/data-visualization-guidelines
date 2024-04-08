@@ -3,7 +3,7 @@ layout: page
 title: Check that the tab order is logical
 permalink: /accessibility/interaction/tab_order
 parent: Interaction
-nav_order: 24
+nav_order: 23
 ---
 
 # Check that the tab order is logical and intuitive for keyboard and assistive technology users. 

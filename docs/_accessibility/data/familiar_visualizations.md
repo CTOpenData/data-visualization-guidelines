@@ -3,7 +3,7 @@ layout: page
 title: Use familiar data visualizations 
 permalink: /accessibility/data/familiar_visualizations
 parent: Data
-nav_order: 13
+nav_order: 12
 ---
 
 # Use data visualizations that are familiar to viewers. 

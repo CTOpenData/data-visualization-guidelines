@@ -2,7 +2,7 @@
 layout: page
 title: Introduction
 permalink: /accessibility/intro
-nav_order: 10
+nav_order: 9
 ---
 # Accessibility
 

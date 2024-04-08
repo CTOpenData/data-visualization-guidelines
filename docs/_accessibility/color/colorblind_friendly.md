@@ -3,7 +3,7 @@ layout: page
 title: Choose colorblind friendly color palettes
 permalink: /accessibility/color/colorblind_friendly
 parent: Color
-nav_order: 17
+nav_order: 16
 ---
 
 # Choose colors that are accessible and colorblind friendly. 

@@ -3,7 +3,7 @@ layout: page
 title: Ensure that there is enough contrast between colors
 permalink: /accessibility/color/color_contrast
 parent: Color
-nav_order: 16
+nav_order: 15
 ---
 
 # Ensure that there is sufficient contrast between colors used in your data visualization or dashboard. 
