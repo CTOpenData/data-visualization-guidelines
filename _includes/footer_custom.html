@@ -9,9 +9,9 @@
 
 {% for item in sorted_pages %}
     {% if item.url == page.url %}
-        {% assign this_i = forloop.index0 %}
+        {% assign this_i = forloop.index %}
         {% assign num_of_pages = sorted_pages | size %}
-        {% assign last_i = num_of_pages | minus: 1 %}
+        {% assign last_i = num_of_pages %}
         {% assign next_i = this_i | plus: 1 %}
         {% assign prev_i = this_i | minus: 1 %}
     {% endif %}
@@ -24,7 +24,7 @@
                 👈 <span>Previous</span>
             </a>
         {% else %}
-            <!-- No previous page -->
+            <span>No previous page</span>
         {% endif %}
     </div>
     <div>
@@ -38,7 +38,17 @@
                 <span>Next</span> 👉
             </a>
         {% else %}
-            <!-- No next page -->
+            <span>No next page</span>
         {% endif %}
     </div>
+</div>
+
+<!-- Debugging Output -->
+<div style="margin-top: 20px; background-color: #f0f0f0; padding: 10px;">
+    <p>Current Page URL: {{ page.url }}</p>
+    <p>This Index: {{ this_i }}</p>
+    <p>Total Pages: {{ num_of_pages }}</p>
+    <p>Last Index: {{ last_i }}</p>
+    <p>Previous Index: {{ prev_i }}</p>
+    <p>Next Index: {{ next_i }}</p>
 </div>
