@@ -98,10 +98,6 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "docs" collection
-    accessibility:
-      name: Accessibility
-      nav_exclude: false
-      search_exclude: false
     data_visualization:
       name: Data Visualization
       # Exclude the collection from the navigation
@@ -109,6 +105,10 @@ just_the_docs:
       nav_exclude: false
       # Exclude the collection from the search
       # Supports true or false (default)
+      search_exclude: false
+    accessibility:
+      name: Accessibility
+      nav_exclude: false
       search_exclude: false
     equity:
       name: Equity
