@@ -16,5 +16,5 @@ These guidelines outline the steps we can take to design clear and informative d
 This section of the guidelines walks through the steps for creating data visualizations.
 
 #### Table of Contents
--TOC
+- TOC
 {:toc}
