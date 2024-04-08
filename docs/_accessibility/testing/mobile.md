@@ -3,7 +3,6 @@ layout: page
 title: Test on mobile
 permalink: /accessibility/testing/mobile
 parent: Testing
-grand_parent: Accessibility
 nav_order: 28
 ---
 

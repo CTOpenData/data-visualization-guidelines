@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Data visualization steps
+title: Data visualization introduction
 permalink: /data_visualization/intro
 nav_order: 2
-has_children: true
 ---
 # Data visualization steps
 

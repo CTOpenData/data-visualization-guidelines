@@ -3,7 +3,6 @@ layout: page
 title: Make your visualizations keyboard-accessible
 permalink: /accessibility/interaction/keyboard
 parent: Interaction
-grand_parent: Accessibility
 nav_order: 21
 ---
 

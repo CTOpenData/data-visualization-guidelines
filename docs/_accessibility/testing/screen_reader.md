@@ -3,7 +3,6 @@ layout: page
 title: Test your viz with a screen reader
 permalink: /accessibility/testing/screen_reader
 parent: Testing
-grand_parent: Accessibility
 nav_order: 26
 ---
 

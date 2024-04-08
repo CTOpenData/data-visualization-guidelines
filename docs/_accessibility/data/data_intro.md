@@ -4,7 +4,6 @@ title: Data
 permalink: /accessibility/data/intro
 nav_order: 10
 has_children: true
-parent: Accessibility
 ---
 
 # Data

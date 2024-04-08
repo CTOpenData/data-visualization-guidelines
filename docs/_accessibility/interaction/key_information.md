@@ -3,7 +3,6 @@ layout: page
 title: Don’t require interactions to access key information
 permalink: /accessibility/interaction/key_information
 parent: Interaction
-grand_parent: Accessibility
 nav_order: 24
 ---
 

@@ -3,7 +3,6 @@ layout: page
 title: Use meaningful labels and titles
 permalink: /accessibility/text/labels_and_titles
 parent: Text
-grand_parent: Accessibility
 nav_order: 19
 ---
 

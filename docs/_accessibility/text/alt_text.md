@@ -3,7 +3,6 @@ layout: page
 title: Use alt text to describe all non-decorative visuals
 permalink: /accessibility/text/alt_text
 parent: Text
-grand_parent: Accessibility
 nav_order: 16
 ---
 

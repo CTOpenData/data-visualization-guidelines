@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accessibility
+title: Accessibility Introduction
 permalink: /accessibility/intro
 nav_order: 9
 has_children: true

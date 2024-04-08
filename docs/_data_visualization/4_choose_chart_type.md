@@ -2,7 +2,6 @@
 layout: page
 title: 4. Match your story with a chart type
 permalink: /data_visualization/choose_chart_type
-parent: Data visualization steps
 nav_order: 6
 ---
 

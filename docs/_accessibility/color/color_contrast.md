@@ -3,7 +3,6 @@ layout: page
 title: Ensure that there is enough contrast between colors
 permalink: /accessibility/color/color_contrast
 parent: Color
-grand_parent: Accessibility
 nav_order: 15
 ---
 

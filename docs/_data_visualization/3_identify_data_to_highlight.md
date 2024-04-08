@@ -2,7 +2,6 @@
 layout: page
 title: 3. Identify the data you want to highlight
 permalink: /data_visualization/identify_data_to_highlight
-parent: Data visualization steps
 nav_order: 5
 ---
 

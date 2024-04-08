@@ -4,7 +4,6 @@ title: Testing
 permalink: /accessibility/testing/intro
 nav_order: 25
 has_children: true
-parent: Accessibility
 ---
 
 # Testing
