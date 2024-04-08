@@ -76,6 +76,8 @@ defaults:
   - scope:
       path: "**/*.md"
       type: "data_visualization"
+    values:
+      layout: "default"
   - scope:
       path: "**/*.md"
       type: "accessibility"
