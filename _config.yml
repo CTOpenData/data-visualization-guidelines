@@ -34,6 +34,13 @@ favicon_ico: "/assets/favicon.ico"
 
 search_enabled: true
 
+# Footer
+footer_navigation:
+  previous:
+    en: Previous
+  next:
+    en: Next
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
