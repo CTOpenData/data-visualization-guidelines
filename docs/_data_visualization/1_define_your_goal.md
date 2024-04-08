@@ -2,6 +2,7 @@
 layout: page
 title: 1. Define your goal
 permalink: /data_visualization/define_your_goal
+has_toc: true
 nav_order: 3
 ---
 
