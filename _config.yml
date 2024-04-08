@@ -57,10 +57,10 @@ footer_hosted_with_love:
 
 # Collections
 collections:
-  accessibility:
+  data_visualization:
     output: true
     sort_by: nav_order
-  data_visualization:
+  accessibility:
     output: true
     sort_by: nav_order
   equity:
@@ -75,12 +75,12 @@ collections_dir: docs
 defaults:
   - scope:
       path: "**/*.md"
-      type: "accessibility"
+      type: "data_visualization"
     values:
       layout: "default"
-  - scope:
+   - scope:
       path: "**/*.md"
-      type: "data_visualization"
+      type: "accessibility"
     values:
       layout: "default"
   - scope:

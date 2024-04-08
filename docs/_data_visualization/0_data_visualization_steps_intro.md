@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data visualization introduction
+title: Introduction
 permalink: /data_visualization/intro
 nav_order: 2
 ---
