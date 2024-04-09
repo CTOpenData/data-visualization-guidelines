@@ -74,9 +74,11 @@ Connecticut state employees can request to join the Open Data channel using [thi
 
 [^1]: CT.gov Content Style Guide, Accessibility Best Practices, [https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices](https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices?language=en_US){:target="_blank"}
 
-<span class="fs-8">
-[Data visualization](/data_visualization/data_visualization_steps){: .btn .btn-outline }
+## Get started! 
+
+<span class="fs-5">
+[Data visualization](/data-visualization-guidelines/data_visualization/data_visualization_steps){: .btn .btn-outline }
 </span>
-<span class="fs-8">
-[Accessibility](/accessibility/intro){: .btn .btn-outline }
+<span class="fs-5">
+[Accessibility](/data-visualization-guidelines/accessibility/intro){: .btn .btn-outline }
 </span>
