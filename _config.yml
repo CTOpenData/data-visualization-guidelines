@@ -55,6 +55,8 @@ footer_external_links:
       url: https://portal.ct.gov/datapolicy
     - label: "test"
       url: google.com
+    - label: "test"
+      url: google.com
 
 footer_hosted_with_love:
   en:
