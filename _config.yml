@@ -51,7 +51,7 @@ footer_navigation:
 
 footer_external_links:
   en:
-    - label: Data & Policy Analytics
+    - label: "Data & Policy Analytics"
       url: https://portal.ct.gov/datapolicy
 
 footer_hosted_with_love:
