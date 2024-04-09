@@ -2,7 +2,7 @@
 layout: page
 title: Equity and data
 permalink: /equity
-nav_order: 29
+nav_order: 28
 ---
 
 # Apply equity awareness in your design

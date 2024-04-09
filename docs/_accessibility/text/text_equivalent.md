@@ -3,7 +3,7 @@ layout: page
 title: Provide a text-based equivalent for every viz
 permalink: /accessibility/text/text_equivalent
 parent: Text
-nav_order: 15
+nav_order: 19
 ---
 
 # Provide a text-based equivalent for every data visualization. 

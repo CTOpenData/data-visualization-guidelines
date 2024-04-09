@@ -3,7 +3,7 @@ layout: page
 title: Ensure text is readable
 permalink: /accessibility/text/readable_text
 parent: Text
-nav_order: 18
+nav_order: 22
 ---
 
 # Ensure text is readable.
