@@ -64,6 +64,18 @@ These guidelines include a high-level overview of the steps for designing data v
 ### Equity 
 1. [Equity and data visualization](/data-visualization-guidelines/equity)
 
+## Get started! 
+
+<span class="fs-5">
+[Data visualization](/data-visualization-guidelines/data_visualization/data_visualization_steps){: .btn .btn-outline }
+</span>
+<span class="fs-5">
+[Accessibility](/data-visualization-guidelines/accessibility/intro){: .btn .btn-outline }
+</span>
+<span class="fs-5">
+[Equity](/data-visualization-guidelines/equity){: .btn .btn-outline }
+</span>
+
 ## Get in touch!
 
 This resource is maintained by the Data and Policy Analytics team in the Office of Policy and Management. We will continue to develop the Data Visualization Guidelines as a resource for Connecticut state agencies. 
@@ -73,12 +85,3 @@ Let us know what other information you’d like to see included in this resource
 Connecticut state employees can request to join the Open Data channel using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=-nyLEd2juUiwJjH_abtzi5L_xJbiJ_5BoyF_jDckfpJUM1JNU0ZMNVhZRFA0MVlYOUdCNjA1TkRTWC4u){:target="_blank"}. 
 
 [^1]: CT.gov Content Style Guide, Accessibility Best Practices, [https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices](https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices?language=en_US){:target="_blank"}
-
-## Get started! 
-
-<span class="fs-5">
-[Data visualization](/data-visualization-guidelines/data_visualization/data_visualization_steps){: .btn .btn-outline }
-</span>
-<span class="fs-5">
-[Accessibility](/data-visualization-guidelines/accessibility/intro){: .btn .btn-outline }
-</span>
