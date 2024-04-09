@@ -41,3 +41,5 @@ We should all prioritize accessibility from the start of our data visualization 
 1. [Test your visualization or dashboard with a screen reader](/data-visualization-guidelines/accessibility/testing/screen_reader)
 2. [Test for low vision](/data-visualization-guidelines/accessibility/testing/low_vision)
 3. [Test on mobile](/data-visualization-guidelines/accessibility/testing/mobile)
+
+[^1]: CT.gov Content Style Guide, Accessibility Best Practices, [https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices](https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices?language=en_US){:target="_blank"}

@@ -75,6 +75,9 @@ These guidelines include a high-level overview of the steps for designing data v
 <span class="fs-5">
 [Equity](/data-visualization-guidelines/equity){: .btn .btn-outline }
 </span>
+<span class="fs-5">
+[Resources](/data-visualization-guidelines/resources){: .btn .btn-outline }
+</span>
 
 ## Get in touch!
 
@@ -83,5 +86,3 @@ This resource is maintained by the Data and Policy Analytics team in the Office 
 Let us know what other information you’d like to see included in this resource by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Microsoft Teams.
 
 Connecticut state employees can request to join the Open Data channel using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=-nyLEd2juUiwJjH_abtzi5L_xJbiJ_5BoyF_jDckfpJUM1JNU0ZMNVhZRFA0MVlYOUdCNjA1TkRTWC4u){:target="_blank"}. 
-
-[^1]: CT.gov Content Style Guide, Accessibility Best Practices, [https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices](https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices?language=en_US){:target="_blank"}
