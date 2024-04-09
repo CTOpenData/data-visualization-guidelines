@@ -2,7 +2,7 @@
 layout: page
 title: Interaction
 permalink: /accessibility/interaction/intro
-nav_order: 20
+nav_order: 24
 has_children: true
 ---
 

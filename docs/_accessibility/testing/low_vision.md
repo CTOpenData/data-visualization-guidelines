@@ -3,7 +3,7 @@ layout: page
 title: Test for low vision
 permalink: /accessibility/testing/low_vision
 parent: Testing
-nav_order: 26
+nav_order: 31
 ---
 
 # Test for low vision.
