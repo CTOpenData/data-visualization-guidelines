@@ -158,6 +158,16 @@ a {
     color: #3371E7;
 }
 
+a:not([class]) {
+    text-decoration: underline;
+    text-decoration-color: $border-color;
+    text-underline-offset: 2px;
+  
+    &:hover {
+      text-decoration-color: rgba(#3371E7, 0.45);
+    }
+  }
+
 .main-content .anchor-heading svg {
     color: #3371E7;
 }
