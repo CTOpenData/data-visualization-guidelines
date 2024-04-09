@@ -13,19 +13,12 @@ These guidelines highlight best practices for creating clear and accessible data
 >💡 **What is data visualization?**
 >
 >Data visualization is the representation of information and data in a visual format such as charts, graphs, maps, etc. Data visualization makes it easier for people to quickly understand complex ideas in data and can give us a quick "at-a-glance" understanding of trends or patterns.
->
->In state government, we often use data visualization in reports, slides, and dashboards to highlight points or trends in our data for informational and decision-making purposes. Good data visualization should help people find insights and make discoveries about data. Poor data visualization can confuse, mislead, or make it difficult for people to use them effectively. 
->
->These guidelines outline the steps we can take to design clear and informative data visualizations that are accessible to everybody. 
 
 {: .note-title }
 > {: .opaque }
 >💡 **What is accessibility?**
+>
 >Accessibility (also referred to as a11y) is the practice of making your content usable by as many people as possible. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility){:target="_blank"} adds: "You might also think of accessibility as treating everyone the same, and giving them equal opportunities, no matter what their ability or circumstances."
->
->Federally-funded agencies are required to make their content accessible to people with disabilities. In the U.S. 26% of adults have some type of disability, with about 19% of adults in Connecticut having a disability.[^1]
->
->We should all prioritize accessibility from the start of our data visualization process and should consider hearing, motor, cognitive, and visual accessibility. Use these guidelines as a starting place for designing accessible data visualizations. 
 
 ## How to use these guidelines 
 
@@ -81,3 +74,9 @@ Connecticut state employees can request to join the Open Data channel using [thi
 
 [^1]: CT.gov Content Style Guide, Accessibility Best Practices, [https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices](https://portal.ct.gov/ctcontentstyleguide/improve-accessibility/accessibility-best-practices?language=en_US){:target="_blank"}
 
+<span class="fs-8">
+[Data visualization](/data_visualization/data_visualization_steps){: .btn .btn-outline }
+</span>
+<span class="fs-8">
+[Accessibility](/accessibility/intro){: .btn .btn-outline }
+</span>

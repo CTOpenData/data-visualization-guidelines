@@ -7,7 +7,11 @@ nav_order: 9
 ---
 # Accessibility
 
-This section of the guidelines outlines best practices for creating accessible data visualizations. We should all prioritize accessibility from the start of our data visualization process and should consider hearing, motor, cognitive, and visual accessibility. Use these guidelines as a starting place for designing accessible data visualizations. 
+This section of the guidelines outlines best practices for creating accessible data visualizations. 
+
+Federally-funded agencies are required to make their content accessible to people with disabilities. In the U.S. 26% of adults have some type of disability, with about 19% of adults in Connecticut having a disability.[^1]
+
+We should all prioritize accessibility from the start of our data visualization process and should consider hearing, motor, cognitive, and visual accessibility. Use these guidelines as a starting place for designing accessible data visualizations. 
 
 #### Table of Contents
 ##### [Data](/data-visualization-guidelines/accessibility/data/data_intro)
