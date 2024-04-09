@@ -20,15 +20,15 @@
 </div>
 <div class="footer-links">
   <div class=footer-hosted-with-love>
-  <a href="{{ site.footer_hosted_with_love[site.active_lang].url }}" target="_blank" rel="noopener noreferrer"
-    >{{ site.footer_hosted_with_love[site.active_lang].label }}</a>
+  <a href="https://github.com/CTOpenData/data-visualization-guidelines" target="_blank" rel="noopener noreferrer"
+    >Github Repository</a>
   </div>
   <div class="footer-external-links">
     <ul>
       {% for footer_external_link in site.footer_external_links[site.active_lang] %}
       <li class="footer-external-link">
-        <a href="{{ footer_external_link.url }}" target="_blank" rel="noopener noreferrer"
-          >{{ footer_external_link.label }}</a
+        <a href="https://portal.ct.gov/datapolicy?language=en_US" target="_blank" rel="noopener noreferrer"
+          >Data & Policy Analytics</a
         >
       </li>
       {% endfor %}
