@@ -50,10 +50,12 @@ footer_navigation:
     en: Next
 
 footer_external_links:
+  en:
     - label: Data & Policy Analytics
       url: https://portal.ct.gov/datapolicy
 
 footer_hosted_with_love:
+  en:
     label: "GitHub Repository"
     url: https://github.com/CTOpenData/data-visualization-guidelines
 
