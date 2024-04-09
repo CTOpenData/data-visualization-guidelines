@@ -36,9 +36,6 @@ default_lang: "en"
 theme: just-the-docs
 #remote_theme: pmarsceill/just-the-docs
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Github Repository: https://github.com/ctopendata/data-visualization-guidelines/
-
 favicon_ico: "/assets/favicon.ico"
 
 search_enabled: true
@@ -50,9 +47,12 @@ footer_navigation:
   next:
     en: Next
 
+footer_external_links:
+    - label: Data & Policy Analytics
+      url: https://portal.ct.gov/datapolicy
+
 footer_hosted_with_love:
-  en:
-    label: "Hosted with love on GitHub"
+    label: "GitHub Repository"
     url: https://github.com/CTOpenData/data-visualization-guidelines
 
 # Collections

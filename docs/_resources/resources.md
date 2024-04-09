@@ -5,6 +5,8 @@ permalink: /resources
 nav_order: 34
 ---
 
+# Resources
+
 This page provides access to resources on data visualization and accessibility. 
 
 # Data Visualization
