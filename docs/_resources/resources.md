@@ -9,13 +9,15 @@ nav_order: 34
 
 This page provides access to resources on data visualization, accessibility, and equity. 
 
-# Data Visualization
+## Data Visualization
 The resources below can help you get started visualizing open data.
 
-* [Datawrapper](https://app.datawrapper.de/){:target="_blank"}
-* [Tableau Public](https://public.tableau.com/app/discover){:target="_blank"}
+* [What Questions to Ask When Creating Charts](https://blog.datawrapper.de/better-charts/){:target="_blank"}, Datawrapper
+* [10 Data Visualization Best Practices for the Web](https://www.webdesignerdepot.com/2018/07/10-data-visualization-best-practices-for-the-web/){:target="_blank"}, Midori Nediger
+* [Data Visualization Catalog](https://datavizcatalogue.com/index.html){:target="_blank"}, Severino Ribecca 
+* [Data Visualization Tips For More Effective And Engaging Design](https://www.tableau.com/learn/articles/data-visualization-tips){:target="_blank"}, Tableau
 
-# Accessibility
+## Accessibility
 The accessibility guidelines in this document were adapted from several resources on data visualization and accessibility, including: 
 
 * [Accessible data viz is better data viz](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz){:target="_blank"}, Amy Cesal
@@ -27,7 +29,7 @@ The accessibility guidelines in this document were adapted from several resource
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/){:target="_blank"}, Web Accessibility Initiative
 * [A template for accessible data visualizations](https://medium.com/san-francisco-digital-services/a-template-for-accessible-data-visualizations-ca2ed52f945b){:target="_blank"}, Emily Vontsolos, Blake Valenta, and Lauren Jong
 
-# Equity
+## Equity
 
 * [A Toolkit for Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/centering-equity/){:target="_blank"}, Actionable Intelligence for Social Policy (AISP) at UPenn
 * [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf){:target="_blank"}, Urban Institute
