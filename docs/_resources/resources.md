@@ -29,5 +29,5 @@ The accessibility guidelines in this document were adapted from several resource
 
 # Equity
 
-* [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf){:target="_blank"}, Urban Institute
 * [A Toolkit for Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/centering-equity/){:target="_blank"}, Actionable Intelligence for Social Policy (AISP) at UPenn
+* [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf){:target="_blank"}, Urban Institute
