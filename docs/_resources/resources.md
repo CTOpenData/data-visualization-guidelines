@@ -7,7 +7,7 @@ nav_order: 34
 
 # Resources
 
-This page provides access to resources on data visualization and accessibility. 
+This page provides access to resources on data visualization, accessibility, and equity. 
 
 # Data Visualization
 The resources below can help you get started visualizing open data.
@@ -26,3 +26,8 @@ The accessibility guidelines in this document were adapted from several resource
 * [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization){:target="_blank"}, Urban Institute
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/){:target="_blank"}, Web Accessibility Initiative
 * [A template for accessible data visualizations](https://medium.com/san-francisco-digital-services/a-template-for-accessible-data-visualizations-ca2ed52f945b){:target="_blank"}, Emily Vontsolos, Blake Valenta, and Lauren Jong
+
+# Equity
+
+* [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf){:target="_blank"}, Urban Institute
+* [A Toolkit for Centering Racial Equity Throughout Data Integration](https://aisp.upenn.edu/centering-equity/){:target="_blank"}, Actionable Intelligence for Social Policy (AISP) at UPenn

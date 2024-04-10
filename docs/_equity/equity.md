@@ -11,7 +11,7 @@ When creating data visualizations, think intentionally about the people and grou
 
 Center equity in your data visualizations, by considering the perspectives of individuals and communities represented in the data and the social, economic, and racial context. 
 
-For more guidance on applying an equity lens in data visualization, see the Urban Lab’s [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf){:target="_blank"}.
+For more guidance on applying an equity lens in data visualization, see the Urban Institute's [Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf){:target="_blank"}.
 
 Some steps we can take to center equity in our data visualization work include: 
 
