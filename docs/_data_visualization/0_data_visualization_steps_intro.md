@@ -15,9 +15,9 @@ These guidelines outline the steps we can take to design clear and informative d
 This section of the guidelines walks through the steps for creating data visualizations.
 
 #### Table of Contents
-1. [Define your goal](data-visualization-steps\1_define_your_goal)
-2. [Know your audience](data-visualization-steps\2_know_your_audience)
-3. [Identify and prioritize the data points or trends you want to highlight](data-visualization-steps\3_identify_data_to_highlight)
-4. [Match your story with a chart type](data-visualization-steps\4_choose_chart_type)
-5. [Choose a software program](data-visualization-steps\5_choose_software_program)
-6. [Design your visualization](data-visualization-steps\6_design)
+1. [Define your goal](data_visualization\define_your_goal)
+2. [Know your audience](data_visualization\know_your_audience)
+3. [Identify and prioritize the data points or trends you want to highlight](data_visualization\identify_data_to_highlight)
+4. [Match your story with a chart type](data_visualization\choose_chart_type)
+5. [Choose a software program](data_visualization\choose_software_program)
+6. [Design your visualization](data_visualization\design)
