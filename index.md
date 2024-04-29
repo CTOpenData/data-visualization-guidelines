@@ -25,12 +25,12 @@ These guidelines highlight best practices for creating clear and accessible data
 These guidelines include a high-level overview of the steps for designing data visualizations, as well as more detailed guidance on accessibility and equity in data visualization. The sections are outlined below as well as in the navigation panel to the left.
 
 ### Data visualization steps
-1. [Define your goal](data-visualization-steps\1_define_your_goal)
-2. [Know your audience](data-visualization-steps\2_know_your_audience)
-3. [Identify and prioritize the data points or trends you want to highlight](data-visualization-steps\3_identify_data_to_highlight)
-4. [Match your story with a chart type](data-visualization-steps\4_choose_chart_type)
-5. [Choose a software program](data-visualization-steps\5_choose_software_program)
-6. [Design your visualization](data-visualization-steps\6_design)
+1. [Define your goal](data_visualization\define_your_goal)
+2. [Know your audience](data-visualization\know_your_audience)
+3. [Identify and prioritize the data points or trends you want to highlight](data-visualization\identify_data_to_highlight)
+4. [Match your story with a chart type](data-visualization\choose_chart_type)
+5. [Choose a software program](data-visualization\choose_software_program)
+6. [Design your visualization](data-visualization\design)
 
 ### Accessibility 
 #### [Data](/data-visualization-guidelines/accessibility/data/data_intro)
