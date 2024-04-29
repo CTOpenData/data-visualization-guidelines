@@ -26,11 +26,11 @@ These guidelines include a high-level overview of the steps for designing data v
 
 ### Data visualization steps
 1. [Define your goal](data_visualization\define_your_goal)
-2. [Know your audience](data-visualization\know_your_audience)
-3. [Identify and prioritize the data points or trends you want to highlight](data-visualization\identify_data_to_highlight)
-4. [Match your story with a chart type](data-visualization\choose_chart_type)
-5. [Choose a software program](data-visualization\choose_software_program)
-6. [Design your visualization](data-visualization\design)
+2. [Know your audience](data_visualization\know_your_audience)
+3. [Identify and prioritize the data points or trends you want to highlight](data_visualization\identify_data_to_highlight)
+4. [Match your story with a chart type](data_visualization\choose_chart_type)
+5. [Choose a software program](data_visualization\choose_software_program)
+6. [Design your visualization](data_visualization\design)
 
 ### Accessibility 
 #### [Data](/data-visualization-guidelines/accessibility/data/data_intro)
