@@ -6,7 +6,7 @@ parent: Color
 nav_order: 16
 ---
 
-# Choose colors that are accessible and colorblind friendly. 
+# Choose colorblind friendly color palettes.
 
 When choosing a color palette for your data visualization, check that your color combinations are accessible to people with colorblindness (approximately 8% of men and 0.5% of women). Some common problematic color combinations include red/green, green/brown, green/blue, and blue/gray. 
 

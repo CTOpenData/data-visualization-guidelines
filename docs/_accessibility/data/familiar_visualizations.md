@@ -6,7 +6,7 @@ parent: Data
 nav_order: 12
 ---
 
-# Use data visualizations that are familiar to viewers. 
+# Use familiar data visualizations.
 
 Choose simple, familiar visualizations instead of complicated graphs, which can be hard for people to understand. For people with certain cognitive impairments, complex visualizations can be especially challenging. 
 

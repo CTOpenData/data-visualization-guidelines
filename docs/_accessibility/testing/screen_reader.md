@@ -6,7 +6,7 @@ parent: Testing
 nav_order: 30
 ---
 
-# Test your visualization or dashboard with a screen reader.
+# Test your viz with a screen reader.
 
 Screen readers are software programs that convert digital text into synthesized speech. They empower users to hear content and navigate with a keyboard. For an overview of screen readers, see WebAIM’s article [Designing for Screen Reader Compatibility](https://webaim.org/techniques/screenreader/){:target="_blank"}. 
 

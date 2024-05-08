@@ -17,7 +17,7 @@ This section of the guidelines walks through the steps for creating data visuali
 #### Table of Contents
 1. [Define your goal](define_your_goal)
 2. [Know your audience](know_your_audience)
-3. [Identify and prioritize the data points or trends you want to highlight](identify_data_to_highlight)
+3. [Identify the data you want to highlight](identify_data_to_highlight)
 4. [Match your story with a chart type](choose_chart_type)
 5. [Choose a software program](choose_software_program)
 6. [Design your visualization](design)

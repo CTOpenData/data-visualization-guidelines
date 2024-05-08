@@ -5,7 +5,7 @@ permalink: /data_visualization/identify_data_to_highlight
 nav_order: 5
 ---
 
-# 3. Identify and prioritize the data points or trends you want to highlight.
+# 3. Identify the data you want to highlight.
 
 Review your data with your goal and audience in mind to determine what data points or trends you want to prioritize in your data visualization or dashboard. Once you have identified the story you want to tell with your data, you can start thinking about how your data visualizations can contribute to that story. Make sure you have a clear purpose for each chart you make.
 

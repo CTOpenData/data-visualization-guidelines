@@ -6,7 +6,7 @@ parent: Testing
 nav_order: 32
 ---
 
-# Test on mobile 
+# Test on mobile.
 
 Once you have a draft of your data visualization or dashboard, test it from your phone to see how it works on mobile. Can you see the key information? Can you navigate any interactive elements? 
 

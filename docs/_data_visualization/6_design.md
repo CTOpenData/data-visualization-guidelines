@@ -5,7 +5,7 @@ permalink: /data_visualization/design
 nav_order: 8
 ---
 
-# 6. Design your visualization
+# 6. Design your visualization.
 
 ## Design for clarity 
 Help your audience understand your data visualization by keeping it simple. Less is more. Simplify your data visualization so that it clearly illustrates the point you are trying to make and does not distract your audience with unnecessary information.
@@ -21,3 +21,4 @@ It is difficult for people to interpret data without context. Help your audience
 
 * **Provide access to the underlying data.** Consider publishing the data used to create your data visualizations as open data to provide greater transparency and to allow users to conduct their own analysis. Connecticut state agencies can publish data on the CT Open Data Portal, which also provides APIs for each dataset that can be used to bring data into some data visualization programs.
 * **Provide a text summary of the visualization.** Describe the trends or patterns in the visualization in text that accompanies the visualization. This will help users understand what they are seeing in the data visualization and will also make the information more accessible to users navigating with screen readers.
+* **Keep equity in mind as you design.** Center equity in your data visualizations, by considering the perspectives of individuals and communities represented in the data and the social, economic, and racial context. For example, avoid the use of colors and icons that may reinforce gender or racial stereotypes, and use people-centered language. More guidance on equity and data visualization can be found in the [Equity](/data-visualization-guidelines/equity) section of these guidelines.

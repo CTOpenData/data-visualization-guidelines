@@ -6,7 +6,7 @@ parent: Interaction
 nav_order: 27
 ---
 
-# Check that the tab order is logical and intuitive for keyboard and assistive technology users. 
+# Check that the tab order is logical. 
 
 As a keyboard user navigates through a page, the order in which items receive keyboard focus is important. The default tab order should be logical and intuitive, typically following the visual flow of the page. When you test your data visualization or dashboard with a keyboard, note the tab order and check that it makes sense. Additional resources on tab order include: 
 

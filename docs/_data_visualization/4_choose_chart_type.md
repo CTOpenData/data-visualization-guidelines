@@ -15,3 +15,6 @@ Once you have identified the points and trends you want to highlight with your d
 * Correlation: Scatterplot, bubble, heat tables/heat maps
 * Distribution: Histogram, scatterplot, pyramid
 * Maps: Choropleth
+
+To make your charts accessible, choose simple, familiar visualizations instead of complicated graphs, which can be hard for people to understand. For people with certain cognitive impairments, complex visualizations can be especially challenging. See the [Accessibility](/data-visualization-guidelines/accessibility/data/familiar_visualizations) section of these guidelines for more details on designing accessible data visualizations.
+

@@ -6,7 +6,7 @@ parent: Text
 nav_order: 20
 ---
 
-# Use alternative text (alt text) to describe all non-decorative visuals.
+# Use alt text to describe all non-decorative visuals.
 
 Alternative text (alt text) is a textual substitute for non-text content in web pages. According to [WebAIM](https://webaim.org/techniques/alttext/){:target="_blank"}, alt text serves several functions: 
 

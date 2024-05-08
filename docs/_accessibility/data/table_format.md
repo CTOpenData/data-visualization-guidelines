@@ -6,7 +6,7 @@ parent: Data
 nav_order: 11
 ---
 
-# Provide access to the data in an accessible table format. 
+# Provide an accessible table format.
 
 Make your data available in an accessible table format to provide an alternate format for consuming the data for people who may find your data visualization inaccessible (for example, some non-visual users may find a table to be easier to navigate with a screen reader.)  
 

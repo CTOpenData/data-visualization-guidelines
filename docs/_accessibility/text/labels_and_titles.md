@@ -6,7 +6,7 @@ parent: Text
 nav_order: 23
 ---
 
-# Create meaningful labels and titles. 
+# Use meaningful labels and titles. 
 
 Use clear labels and titles to decrease the cognitive load of understanding your data visualization. Two steps you can take to improving the clarity of your labels and titles (from Amy Cesal’s [Accessible data viz is better data viz](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz){:target="_blank"}) are:
 

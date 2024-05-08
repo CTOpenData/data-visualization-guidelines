@@ -6,7 +6,7 @@ parent: Text
 nav_order: 19
 ---
 
-# Provide a text-based equivalent for every data visualization. 
+# Provide a text-based equivalent for every viz. 
 
 Providing a text summary of your data visualizations will allow non-visual users to understand the key findings from the visualization. What is important about the data? What are the key trends or main takeaways? 
 

@@ -6,7 +6,7 @@ parent: Interaction
 nav_order: 25
 ---
 
-# Make interactive visualizations keyboard-accessible.
+# Make your visualizations keyboard-accessible.
 
 Many users who encounter an interactive data visualization will navigate it using a mouse, but many users will use a keyboard or other assistive technologies instead of a mouse. When designing an interactive data visualization, we must ensure that they are keyboard accessible. 
 

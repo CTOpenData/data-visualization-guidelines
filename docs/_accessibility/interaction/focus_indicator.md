@@ -6,7 +6,7 @@ parent: Interaction
 nav_order: 26
 ---
 
-# Ensure the keyboard focus indicator is easily visible.
+# Ensure the keyboard focus indicator is visible.
 
 When a user is navigating a website using a keyboard, they typically use the tab key to navigate interactive elements such as links, buttons, fields, etc. As they tab through the items on the site, the selected item that is tabbed to has keyboard “focus” and can be activated or manipulated with the keyboard. 
 
